@@ -1,0 +1,4 @@
+﻿  calculator in c++.cpp
+C:\Users\Franciszek\Desktop\Projekty\C++\calculator in c++\calculator in c++\calculator in c++.cpp(13,45): error C2065: "endl": niezadeklarowany identyfikator
+C:\Users\Franciszek\Desktop\Projekty\C++\calculator in c++\calculator in c++\calculator in c++.cpp(14,5): error C3861: "sleep": identyfikatora nie odnaleziono
+C:\Users\Franciszek\Desktop\Projekty\C++\calculator in c++\calculator in c++\calculator in c++.cpp(16,1): error C2143: błąd składniowy: brakuje „;” przed „}”
