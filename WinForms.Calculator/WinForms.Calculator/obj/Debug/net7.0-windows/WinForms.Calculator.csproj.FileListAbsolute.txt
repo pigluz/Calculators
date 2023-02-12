@@ -1,0 +1,17 @@
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\bin\Debug\net7.0-windows\WinForms.Calculator.exe
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\bin\Debug\net7.0-windows\WinForms.Calculator.deps.json
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\bin\Debug\net7.0-windows\WinForms.Calculator.runtimeconfig.json
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\bin\Debug\net7.0-windows\WinForms.Calculator.dll
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\bin\Debug\net7.0-windows\WinForms.Calculator.pdb
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.csproj.AssemblyReference.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.Form1.resources
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.csproj.GenerateResource.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.AssemblyInfoInputs.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.AssemblyInfo.cs
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.dll
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\refint\WinForms.Calculator.dll
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.pdb
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\WinForms.Calculator.genruntimeconfig.cache
+C:\Users\Franciszek\Desktop\Projekty\C#\WinForms.Calculator\WinForms.Calculator\obj\Debug\net7.0-windows\ref\WinForms.Calculator.dll
